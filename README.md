@@ -258,3 +258,12 @@ An importable Postman collection is included in the project root: `FitTrack.post
 2. Auto-evaluating Test Scripts: When you trigger a **Register** or **Login** request, the returned token is automatically stored in a collection variable named `jwt_token`.
 3. Auto-updating IDs: When you successfully run **Add Workout**, the generated ID is saved into `workout_id` to automatically authorize subsequent Retrieve/Update/Delete tests.
 4. Bearer Authentication is dynamically inherited from the collection variables.
+
+---
+## 🔗 Project Links
+
+**GitHub Repository:** https://github.com/mkalaiyarasi2006-sudo/NM-PROJECT1
+
+**Demo Video Link:** https://drive.google.com/file/d/1dhUkEtBP_fxVV_f70Gl9xkTErsjVuF3_/view?usp=sharing
+
+**Presentation:** Untitled presentation.pdf
